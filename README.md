@@ -14,7 +14,8 @@ Penjelasan :
  - Baris 13 : mendeklarasikan variabel **akhir** yang merupakan nilai akhir yang diambil dari perhitungan 3 komponen nilai (tugas, uts, dan uas).
  - Baris 14 ; mendeklarasikan variabel **no**.
  - Baris 15 : menggabungkan variabel yang telah diiputkan ke dala bentuk list menggunakan fungsi `append()`.
- - Baris 16-17 : Menggunakan kondisi **if** dan penyataan **break** pada input yang menampilkan pertanyaan **Tambah data (Ya/Tidak)?**, apabila kita memberi jawaban **tidak**, maka perulangan akan berhenti dan melanjutkan statement selanjutnya. 
+ - Baris 16-17 : Menggunakan kondisi **if** dan penyataan **break** pada input yang menampilkan pertanyaan **Tambah data (Ya/Tidak)?**, apabila kita memberi jawaban **tidak**, maka perulangan akan berhenti dan melanjutkan statement selanjutnya.
+ 
  -Baris 18-23 : Menampilkan output yang berupa tabel dalam bentuk list dengan kode yang menggunakan fungsi `format()`.
  Dan berikut ini adalah hasil outputnya :
  
