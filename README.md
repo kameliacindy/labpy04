@@ -15,8 +15,7 @@ Penjelasan :
  - Baris 14 ; mendeklarasikan variabel **no**.
  - Baris 15 : menggabungkan variabel yang telah diiputkan ke dala bentuk list menggunakan fungsi `append()`.
  - Baris 16-17 : Menggunakan kondisi **if** dan penyataan **break** pada input yang menampilkan pertanyaan **Tambah data (Ya/Tidak)?**, apabila kita memberi jawaban **tidak**, maka perulangan akan berhenti dan melanjutkan statement selanjutnya.
- 
- -Baris 18-23 : Menampilkan output yang berupa tabel dalam bentuk list dengan kode yang menggunakan fungsi `format()`.
+ - Baris 18-23 : Menampilkan output yang berupa tabel dalam bentuk list dengan kode yang menggunakan fungsi `format()`.
  Dan berikut ini adalah hasil outputnya :
  
  ![enter image description here](https://github.com/kameliacindy/labpy04/blob/master/img/op.PNG)
