@@ -23,3 +23,6 @@ Penjelasan :
 ### 2. Flowchart
 
 ![enter image description here](https://github.com/kameliacindy/labpy04/blob/master/img/flow.png)
+
+Nama : Kamelia Cindy Astuti (311910104)
+Kelas : TI.19.A.1
